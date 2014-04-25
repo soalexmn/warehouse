@@ -6,4 +6,4 @@ warehouse
 предварительная пустая версия
 =========
 
-TP course
+application development course
